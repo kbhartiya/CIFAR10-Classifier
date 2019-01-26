@@ -9,14 +9,14 @@ To Run Softmax Classifier
 Run
 
 ```
-python3 model.py [-m] --model --Softmax [-e] --epochs [-b] --batch_size
+python3 model.py [-m] --model Softmax [-e] --epochs n_epochs [-b] --batch_size batch_size
 ```
 To Run SVM Classifier
 ----------------------
 Run
 
 ```
-python3 model.py [-m] --model --SVM [-e] --epochs [-b] --batch_size
+python3 model.py [-m] --model SVM [-e] --epochs n_epochs  [-b] --batch_size batch_size
 ```
 Results
 --------
